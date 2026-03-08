@@ -247,7 +247,7 @@
 
 // Transfrmation using map () , filter () , reduce ()
 
-//  usng map ()
+//  using map ()
 
 
 // const arr = [1, 2, 3, 4];
